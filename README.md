@@ -1,3 +1,7 @@
+Contenido:
+
+Aula 1 ->  German-2006-1.2-Introducción-a-las-herramientas-que-usaremos
+
 # NgTest1
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.1.
